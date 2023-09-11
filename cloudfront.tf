@@ -1,3 +1,4 @@
+#This is for the dev team
 provider "aws" {
   region = "us-east-1"  # Change to your desired AWS region
 }
